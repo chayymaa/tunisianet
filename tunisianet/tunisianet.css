@@ -1,0 +1,66 @@
+.pc{
+width: 30%;
+}
+.nom{
+    color: rgb(40, 40, 210);
+    text-align : center;
+    font-size: 18px;
+    width: 43%;
+    
+    
+    }
+    .nom:hover{
+        color: rgb(123, 123, 31);
+    }
+    .name{
+        color: blue;
+    }
+
+
+
+.security{
+    color: red ;
+}
+.reference{
+    color: black;
+    
+}
+.dispo{
+    color: rgb(30, 30, 212);
+    width: 20%;
+}
+.logo{
+width: 40%;
+}
+.price{
+color: red;
+}
+.local{
+    width: 20%;
+    margin-left: 400px;
+}
+
+
+.prix
+{
+    text-decoration:line-through;
+    
+}
+
+.disponible{
+    color: green ;
+    width: 20%;
+}
+.stock{
+    color: rgb(39, 165, 39);
+    
+      
+
+}
+
+.code{
+    display:flex;
+}
+.button{
+
+}
